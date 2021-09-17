@@ -9,5 +9,10 @@
 对于这些user和item产生的embedding，因为是在同一个空间下，所以可以直接用户推荐。
 
 # 后续
+
 paper中几乎都是使用link prediction任务来判断embedding生成的好坏。
 后续更新这种方法判断代码。
+
+
+
+感觉是Clone DGL的代码
